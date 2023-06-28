@@ -6,7 +6,7 @@ import numpy as np
 from .action import Action
 
 
-STEP_LIMIT_MULTIPLIER = 1.1
+STEP_LIMIT_MULTIPLIER = 1.05
 
 
 @dataclass(frozen=True)
