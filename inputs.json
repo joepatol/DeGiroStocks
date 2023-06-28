@@ -1,0 +1,10 @@
+{
+  "target_shares": {
+    "VUSA": 0.5,
+    "VWRL": 0.3,
+    "VFEM": 0.1,
+    "IQQH": 0.1
+  },
+  "to_email": "joep.atol@live.nl",
+  "strategy": "buy"
+}

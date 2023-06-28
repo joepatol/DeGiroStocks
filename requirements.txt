@@ -1,0 +1,6 @@
+pandas
+requests
+numpy
+python-dotenv
+tabulate
+openpyxl
