@@ -50,7 +50,7 @@ def main():
     df_portfolio = portfolio.to_dataframe()
 
     logger.info("Loading configuration")
-    config = Config.from_json_file(r"C:\Users\JoepAtol\PycharmProjects\Stocks\inputs.json")
+    config = Config.from_json_file(r"inputs.json")
 
     # TODO: implement searching of products not in portfolio and getting their id_nr
 
